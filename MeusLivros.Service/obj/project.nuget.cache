@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsAFGs3u5MNtbNYO0rUun+/ItjY59ewvrh44QcvSAR4txBi1kHj38Wmk/kfMaQKLqkXaOfeYNfUbSV1/kakSYA==",
+  "success": true,
+  "projectFilePath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Service\\MeusLivros.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.guerra\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\bruno.guerra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\bruno.guerra\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://helix/NugetServer/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

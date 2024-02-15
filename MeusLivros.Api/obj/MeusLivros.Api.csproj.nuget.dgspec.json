@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Api\\MeusLivros.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Api\\MeusLivros.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Api\\MeusLivros.Api.csproj",
+        "projectName": "MeusLivros.Api",
+        "projectPath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Api\\MeusLivros.Api.csproj",
+        "packagesPath": "C:\\Users\\bruno.guerra\\.nuget\\packages\\",
+        "outputPath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bruno.guerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "http://helix/NugetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/PjcQd8QLEl1nlzghFTeTCuF5YoHusAuEydus5iPKkDmkl2melF/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Domain\\MeusLivros.Domain.csproj": {
+                "projectPath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Domain\\MeusLivros.Domain.csproj"
+              },
+              "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Service\\MeusLivros.Service.csproj": {
+                "projectPath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Service\\MeusLivros.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Domain\\MeusLivros.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Domain\\MeusLivros.Domain.csproj",
+        "projectName": "MeusLivros.Domain",
+        "projectPath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Domain\\MeusLivros.Domain.csproj",
+        "packagesPath": "C:\\Users\\bruno.guerra\\.nuget\\packages\\",
+        "outputPath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bruno.guerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "http://helix/NugetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/PjcQd8QLEl1nlzghFTeTCuF5YoHusAuEydus5iPKkDmkl2melF/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Service\\MeusLivros.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Service\\MeusLivros.Service.csproj",
+        "projectName": "MeusLivros.Service",
+        "projectPath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Service\\MeusLivros.Service.csproj",
+        "packagesPath": "C:\\Users\\bruno.guerra\\.nuget\\packages\\",
+        "outputPath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bruno.guerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "http://helix/NugetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/PjcQd8QLEl1nlzghFTeTCuF5YoHusAuEydus5iPKkDmkl2melF/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Domain\\MeusLivros.Domain.csproj": {
+                "projectPath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Domain\\MeusLivros.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

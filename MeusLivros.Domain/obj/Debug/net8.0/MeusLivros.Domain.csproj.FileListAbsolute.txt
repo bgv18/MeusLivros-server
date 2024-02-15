@@ -1,0 +1,11 @@
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\bin\Debug\net8.0\MeusLivros.Domain.deps.json
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\bin\Debug\net8.0\MeusLivros.Domain.dll
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\bin\Debug\net8.0\MeusLivros.Domain.pdb
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\obj\Debug\net8.0\MeusLivros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\obj\Debug\net8.0\MeusLivros.Domain.AssemblyInfoInputs.cache
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\obj\Debug\net8.0\MeusLivros.Domain.AssemblyInfo.cs
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\obj\Debug\net8.0\MeusLivros.Domain.csproj.CoreCompileInputs.cache
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\obj\Debug\net8.0\MeusLivros.Domain.dll
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\obj\Debug\net8.0\refint\MeusLivros.Domain.dll
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\obj\Debug\net8.0\MeusLivros.Domain.pdb
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Domain\obj\Debug\net8.0\ref\MeusLivros.Domain.dll

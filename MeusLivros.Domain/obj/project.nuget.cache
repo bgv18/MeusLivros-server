@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1UzdRG1qKSY0CUB/Yr6eeLoFWrvb643g4YWVq1hVAyg3dzAjeGZn9KlGQchybp/7xFTl7xGU5CkVQgJ5m7TbrA==",
+  "success": true,
+  "projectFilePath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Domain\\MeusLivros.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://helix/NugetServer/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

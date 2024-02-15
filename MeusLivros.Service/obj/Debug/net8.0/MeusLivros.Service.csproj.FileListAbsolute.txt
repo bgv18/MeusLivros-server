@@ -1,0 +1,15 @@
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\bin\Debug\net8.0\MeusLivros.Service.deps.json
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\bin\Debug\net8.0\MeusLivros.Service.dll
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\bin\Debug\net8.0\MeusLivros.Service.pdb
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\bin\Debug\net8.0\MeusLivros.Domain.dll
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\bin\Debug\net8.0\MeusLivros.Domain.pdb
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\obj\Debug\net8.0\MeusLivros.Service.csproj.AssemblyReference.cache
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\obj\Debug\net8.0\MeusLivros.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\obj\Debug\net8.0\MeusLivros.Service.AssemblyInfoInputs.cache
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\obj\Debug\net8.0\MeusLivros.Service.AssemblyInfo.cs
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\obj\Debug\net8.0\MeusLivros.Service.csproj.CoreCompileInputs.cache
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\obj\Debug\net8.0\MeusLivros.Service.csproj.CopyComplete
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\obj\Debug\net8.0\MeusLivros.Service.dll
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\obj\Debug\net8.0\refint\MeusLivros.Service.dll
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\obj\Debug\net8.0\MeusLivros.Service.pdb
+C:\WS\teste-kevin\MeusLivros-RabbitMQ\MeusLivros.RabbitMQ\MeusLivros.Service\obj\Debug\net8.0\ref\MeusLivros.Service.dll
