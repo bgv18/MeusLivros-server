@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "evQ/rqIymnvl1oNluXdyc0j48Ce4+i+Po1cQvY7I4ywXq5Vgc2YOBEyGTUBbxIEe6vcIjf2czE3xZxXqTE47XQ==",
+  "dgSpecHash": "4MddsrVr0fIewKVfKmgW5eGP73XmTqxcfu54hy+/m4TkKIaxkUgJFPvnu3O0W0Yrdhui1e6i1AFo831GSKSpIQ==",
   "success": true,
   "projectFilePath": "C:\\WS\\teste-kevin\\MeusLivros-RabbitMQ\\MeusLivros.RabbitMQ\\MeusLivros.Api\\MeusLivros.Api.csproj",
   "expectedPackageFiles": [
